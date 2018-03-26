@@ -7,8 +7,6 @@ Fichero 1
 [link fichero2][a_fichero_2]
 
 
-
-
 [link a fichero 3 - otro folder][a_fichero_3]
 
 
