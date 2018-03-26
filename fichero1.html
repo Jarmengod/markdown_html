@@ -1,0 +1,63 @@
+<!DOCTYPE html []>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="MarkdownViewer++" />
+    <title>fichero1.md</title>
+    <style type="text/css">
+            /* Avoid page breaks inside the most common attributes, especially for exports (i.e. PDF) */
+td, h1, h2, h3, h4, h5, p, ul, ol, li {
+    page-break-inside: avoid; 
+}
+
+            /* ============
+Fichero CSS estilo para pluging markdown 
+owner  JAR 
+rev date:  180129 
+Description: tipo de letra monospace Lucida Console, tamaño small 
+*/
+
+
+      html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+      }
+	  
+      body {
+        background-color: transparent;
+        -webkit-transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+        -webkit-transform-style: preserve-3d;
+	}
+	
+
+body{	
+    font-style: normal;
+    font-family: Lucida Console;
+			/*  font-family: monospace; */
+    font-size: small;
+    background-color: white 
+      }
+        </style>
+  </head>
+  <body>
+    <h1>Prueba de ficheros md y links</h1>
+    <h2>Fichero 1</h2>
+    <p>
+      <a target="_blank" href="fichero2.html">link fichero2</a>
+    </p>
+    <p>
+      <a target="_blank" href="pova%5Cfichero3.html">link a fichero 3 - otro folder</a>
+    </p>
+    <p>Prueba link por ruta absoluta <a target="_blank" href="file:///c:/Temp/pova_web_md/fichero2.html">ir a la pagina 2</a></p>
+    <p>link simple [] para la etiqueta,  () para la direccion.</p>
+    <p>
+      <a target="_blank" href="http://www.limni.net">enlace en linea</a>
+    </p>
+    <p>link mediante referencias</p>
+    <p>
+      <a target="_blank" href="http:www.tuenlace.com">nombre que quieres darle a tu enlace</a>
+    </p>
+    <hr />
+  </body>
+</html>
