@@ -1,0 +1,39 @@
+Listado de objetos pendientes de encontrar en emule
+====================
+[fichero en documents:pending_emule.mk](c:\Users\emule\Documents\pending_emule.md)
+
+
+Libros
+--------
+- __Elisabet Benavent______Este Cuaderno es para mil__
+- __S. S. Van Dine_________El caso del asesinato de Benson, de la canario__
+- __Vladimir Hernandez_____Habana requiem y +__
+- __Kike Ferrari___________Que de lejos parecen moscas__
+- __Manuel de pedrolo__
+- __Daniel Vazquez Salles__Lena__
+- __Andreu Martin__________El haren del tibidabo__
+- __Paul preston___________La guerra civil espanyola___
+- __Jaime Oliver___________5 ingredients comidas rapidas y faciles__
+- __Marc Ribas_____________Brutal les receptes de__
+
+
+#### clasicos
+
+- __Dostoieski__
+- __Charles Dickens__
+
+	
+
+_____________
+Pelis
+------
+#### __________180209
+- __Suburbicon__
+- __Stranger Things__
+- __Halt and cath fire__
+
+
+___________________
+Musica
+-----
+

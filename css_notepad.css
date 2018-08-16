@@ -1,0 +1,19 @@
+/*   ============
+Fichero CSS estilo para pluging markdown
+owner JAR
+rev. date:  180129
+Description:  tipo de letra monospace Lucida Consoloe, tamaño email
+*/
+
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0px
+}
+
+body{
+	font-style: normal;
+	font-family: Lucida Console;
+	font-size: small;
+	background.color: white
+}
