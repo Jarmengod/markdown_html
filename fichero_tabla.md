@@ -29,6 +29,12 @@ link mediante referencias
 
 [nombre de tu referencia]: http:www.tuenlace.com
 
+### ejemplo de tabla
+| a | b | c|
+|----|----|----|
+|dinosaurio | fasdd| papa |
+
+
 
 --------------------------------
 [a_fichero_2]: fichero2.html
